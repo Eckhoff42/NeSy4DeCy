@@ -5,9 +5,9 @@ This directory contains the code described in the paper **On the use of neurosym
 ## Structure:
 ```
 .
-├── LTN
+├── LTN       (experiment 1)
 │   ├── Intrusion_detection.ipynb
-├── Awareness
+├── Awareness (experiment 2)
 │   ├── generate_attack_pattern.py
 └── README.md
 ```
