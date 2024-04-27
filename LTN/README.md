@@ -5,4 +5,3 @@ This directory contains the code related to experiment 1 in the paper **On the u
 ## How to run:
 1. Install the required packages 
 2. Open and run the jupiter notebook `intrusion_detection.ipynb`
-
